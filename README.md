@@ -1,1 +1,1 @@
-hello o/ going through the odin project's lessons, first git project is a go!
+my executive dysfunction is making this so hard to focus on
